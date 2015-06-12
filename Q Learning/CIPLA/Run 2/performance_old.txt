@@ -1,0 +1,7 @@
+original performance,number of trades
+
+-2.0504290761772435,444946
+
+q learning performance,number of trades
+
+31.598909417450212,1646
